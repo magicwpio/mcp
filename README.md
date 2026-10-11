@@ -1,7 +1,5 @@
 # MagicWP plugin for Claude Code
 
-> **Preview.** Signing in with your MagicWP account (OAuth) is being rolled out. Until it is live on `mcp.magicwp.io`, the plugin can't connect yet. This note goes away when it is.
-
 Manage your [MagicWP](https://magicwp.io) WordPress sites from [Claude Code](https://code.claude.com): create sites, run updates, take and restore backups, check what's up and what needs attention, in plain words.
 
 This repository holds **only the Claude Code plugin**: a marketplace file, the connection to MagicWP's hosted MCP server and a few skills. It does not contain the MCP server or any other MagicWP code.
