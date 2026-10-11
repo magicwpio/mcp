@@ -1,0 +1,14 @@
+{
+  "name": "magicwp",
+  "displayName": "MagicWP",
+  "version": "0.1.0",
+  "description": "Manage your MagicWP WordPress sites from Claude Code: the MagicWP MCP server over OAuth, plus skills for safe site creation, destructive actions and a portfolio health report.",
+  "author": {
+    "name": "MagicWP",
+    "url": "https://magicwp.io"
+  },
+  "homepage": "https://docs.magicwp.io/mcp",
+  "repository": "https://github.com/magicwpio/mcp",
+  "license": "MIT",
+  "keywords": ["wordpress", "hosting", "mcp", "magicwp"]
+}

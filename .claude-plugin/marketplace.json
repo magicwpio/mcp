@@ -1,0 +1,15 @@
+{
+  "name": "magicwp",
+  "description": "MagicWP plugins for Claude Code",
+  "owner": {
+    "name": "MagicWP",
+    "url": "https://magicwp.io"
+  },
+  "plugins": [
+    {
+      "name": "magicwp",
+      "source": "./plugins/magicwp",
+      "description": "Manage your MagicWP WordPress sites from Claude Code: the MagicWP MCP server over OAuth, plus skills for safe site creation, destructive actions and a portfolio health report."
+    }
+  ]
+}

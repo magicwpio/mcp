@@ -1,0 +1,15 @@
+# Never commit credentials or local config.
+.env
+.env.*
+*.pem
+*.key
+.mcp.local.json
+.claude/settings.local.json
+# Local test copies (for example one pointed at another server).
+*.local/
+local/
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+node_modules/
